@@ -43,6 +43,13 @@ Reg no: 212223040073
 ![image](https://github.com/user-attachments/assets/cbb1ebcc-d4e5-445b-9a41-6506cb013cf9)
 ![image](https://github.com/user-attachments/assets/2fabd191-82fc-46df-b191-41d68faddc6a)
 ![image](https://github.com/user-attachments/assets/5468260e-70b6-4863-be31-169dea31b74d)
+![image](https://github.com/user-attachments/assets/4e14a35a-fa28-40ef-8bf9-b38edf8b1c5c)
+![image](https://github.com/user-attachments/assets/db0e9121-28c6-454f-91cb-60feaac482cd)
+![image](https://github.com/user-attachments/assets/f073c3ec-4ddd-4909-9c48-cd9328d47799)
+![image](https://github.com/user-attachments/assets/35c30259-10e0-4251-b6a9-2f2f4a7a0f75)
+![image](https://github.com/user-attachments/assets/e7a5492d-a83b-4ce1-9ce6-7ceb52a08ca9)
+![image](https://github.com/user-attachments/assets/f3d61462-7e7d-4909-b347-6666996a1a6d)
+![image](https://github.com/user-attachments/assets/74379ed8-e6d9-47b6-85af-4e6789bc35cb)
 
 # Result:
- Include your result here
+  Thus, the data Visualization using seaborn python library for the given datas has been performed successfully.
